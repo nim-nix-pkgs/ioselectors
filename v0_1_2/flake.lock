@@ -75,23 +75,6 @@
         "type": "github"
       }
     },
-    "src-timerwheel-master_2": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1599025238,
-        "narHash": "sha256-HPLel0nFPy5pmMl0ZkFjzZnJWGJ9umZFzyFG4m7wzXo=",
-        "owner": "xflywind",
-        "repo": "timerwheel",
-        "rev": "ee1cf5b40ed01b721daba214e4816949f6a2f79c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "xflywind",
-        "ref": "refs/heads/master",
-        "repo": "timerwheel",
-        "type": "github"
-      }
-    },
     "src-timerwheel-v0_1_2": {
       "flake": false,
       "locked": {
@@ -106,6 +89,23 @@
         "owner": "xflywind",
         "ref": "refs/tags/v0.1.2",
         "repo": "timerwheel",
+        "type": "github"
+      }
+    },
+    "src-wepoll-master": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1645866505,
+        "narHash": "sha256-iK5GouMRl7M1aWm2/qQRFLb83N1h1t36qgx5jSWFEHE=",
+        "owner": "xflywind",
+        "repo": "wepoll",
+        "rev": "b6d836b2e3eb7a1744dd86c60d825b893339d2d7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "xflywind",
+        "ref": "refs/heads/master",
+        "repo": "wepoll",
         "type": "github"
       }
     },
@@ -138,11 +138,11 @@
         "timerwheel-v0_1_2": "timerwheel-v0_1_2"
       },
       "locked": {
-        "lastModified": 1647067059,
-        "narHash": "sha256-laN1X5duJ7opOLZhg/cb6x0mMU9gyE4t467kqs5PkHk=",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
         "owner": "nim-nix-pkgs",
         "repo": "timerwheel",
-        "rev": "a27e0553e1311738e964ba10ddd3a5a01980ad71",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
         "type": "github"
       },
       "original": {
@@ -165,13 +165,20 @@
         "src-timerwheel-master": "src-timerwheel-master"
       },
       "locked": {
-        "narHash": "sha256-iAYcCiuZx7Pp9iJ06OHRs/KvDbCYY7N+2aJ+0gAmE2Y=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "timerwheel",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "timerwheel",
+        "type": "github"
       }
     },
     "timerwheel-v0_1_2": {
@@ -187,13 +194,20 @@
         "src-timerwheel-v0_1_2": "src-timerwheel-v0_1_2"
       },
       "locked": {
-        "narHash": "sha256-O2g67vjA12sUViKGN88nuEQ7g0ut7v9G3bxTxZCbIw0=",
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "timerwheel",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "timerwheel",
+        "type": "github"
       }
     },
     "wepoll": {
@@ -208,11 +222,11 @@
         "wepoll-v0_1_0": "wepoll-v0_1_0"
       },
       "locked": {
-        "lastModified": 1647061570,
-        "narHash": "sha256-8H1SsTozW3K7qbS0UJddEoOLcPU+/39CJHheCoqqXeg=",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "2a047e81a95ddacd90625b2c5968abe9825692e6",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
         "type": "github"
       },
       "original": {
@@ -232,16 +246,23 @@
           "wepoll",
           "nixpkgs"
         ],
-        "src-timerwheel-master": "src-timerwheel-master_2"
+        "src-wepoll-master": "src-wepoll-master"
       },
       "locked": {
-        "narHash": "sha256-iAYcCiuZx7Pp9iJ06OHRs/KvDbCYY7N+2aJ+0gAmE2Y=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "wepoll",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "wepoll",
+        "type": "github"
       }
     },
     "wepoll-v0_1_0": {
@@ -257,13 +278,20 @@
         "src-wepoll-v0_1_0": "src-wepoll-v0_1_0"
       },
       "locked": {
-        "narHash": "sha256-z+UE/iZYrOc181XwlavPxOdRFKc0P++Y9u6lM7TTcFc=",
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "wepoll",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "wepoll",
+        "type": "github"
       }
     }
   },
