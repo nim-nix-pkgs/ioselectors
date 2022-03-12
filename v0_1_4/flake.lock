@@ -103,11 +103,11 @@
         "timerwheel-v0_1_2": "timerwheel-v0_1_2"
       },
       "locked": {
-        "lastModified": 1647067059,
-        "narHash": "sha256-laN1X5duJ7opOLZhg/cb6x0mMU9gyE4t467kqs5PkHk=",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
         "owner": "nim-nix-pkgs",
         "repo": "timerwheel",
-        "rev": "a27e0553e1311738e964ba10ddd3a5a01980ad71",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
         "type": "github"
       },
       "original": {
@@ -130,13 +130,20 @@
         "src-timerwheel-master": "src-timerwheel-master"
       },
       "locked": {
-        "narHash": "sha256-iAYcCiuZx7Pp9iJ06OHRs/KvDbCYY7N+2aJ+0gAmE2Y=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "timerwheel",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "timerwheel",
+        "type": "github"
       }
     },
     "timerwheel-v0_1_2": {
@@ -152,13 +159,20 @@
         "src-timerwheel-v0_1_2": "src-timerwheel-v0_1_2"
       },
       "locked": {
-        "narHash": "sha256-O2g67vjA12sUViKGN88nuEQ7g0ut7v9G3bxTxZCbIw0=",
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "lastModified": 1647112337,
+        "narHash": "sha256-A5YL8L4vngTvl96PFhSY59GkeMpetZOZXfZV6eXxgJw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "timerwheel",
+        "rev": "ab69a78d464b89bdd531be21cbde5aee2634e101",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "timerwheel",
+        "type": "github"
       }
     }
   },
