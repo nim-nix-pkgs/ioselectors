@@ -103,11 +103,11 @@
         "wepoll-v0_1_0": "wepoll-v0_1_0"
       },
       "locked": {
-        "lastModified": 1647061570,
-        "narHash": "sha256-8H1SsTozW3K7qbS0UJddEoOLcPU+/39CJHheCoqqXeg=",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "2a047e81a95ddacd90625b2c5968abe9825692e6",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
         "type": "github"
       },
       "original": {
@@ -130,13 +130,20 @@
         "src-wepoll-master": "src-wepoll-master"
       },
       "locked": {
-        "narHash": "sha256-7vksXSTnXKqtGfo/OEGTqbqeQQECMiJ75jffz9afoaM=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "wepoll",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "wepoll",
+        "type": "github"
       }
     },
     "wepoll-v0_1_0": {
@@ -152,13 +159,20 @@
         "src-wepoll-v0_1_0": "src-wepoll-v0_1_0"
       },
       "locked": {
-        "narHash": "sha256-z+UE/iZYrOc181XwlavPxOdRFKc0P++Y9u6lM7TTcFc=",
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "lastModified": 1647111886,
+        "narHash": "sha256-52ifiQgjQN46q+t/Wvsd1+p7V1IU/8yyw7IGdRvnJ7k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "wepoll",
+        "rev": "06481769e26ebc58415aa0b9e1dc0c42fa58e357",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "wepoll",
+        "type": "github"
       }
     }
   },
