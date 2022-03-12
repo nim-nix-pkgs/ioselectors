@@ -103,19 +103,17 @@
         "wepoll-v0_1_0": "wepoll-v0_1_0"
       },
       "locked": {
-        "dir": "nimpkgs/w/wepoll",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
+        "lastModified": 1647061570,
+        "narHash": "sha256-8H1SsTozW3K7qbS0UJddEoOLcPU+/39CJHheCoqqXeg=",
+        "owner": "nim-nix-pkgs",
+        "repo": "wepoll",
+        "rev": "2a047e81a95ddacd90625b2c5968abe9825692e6",
         "type": "github"
       },
       "original": {
-        "dir": "nimpkgs/w/wepoll",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "wepoll",
         "type": "github"
       }
     },
@@ -132,20 +130,13 @@
         "src-wepoll-master": "src-wepoll-master"
       },
       "locked": {
-        "dir": "nimpkgs/w/wepoll/master",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-7vksXSTnXKqtGfo/OEGTqbqeQQECMiJ75jffz9afoaM=",
+        "path": "./master",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/w/wepoll/master",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./master",
+        "type": "path"
       }
     },
     "wepoll-v0_1_0": {
@@ -161,20 +152,13 @@
         "src-wepoll-v0_1_0": "src-wepoll-v0_1_0"
       },
       "locked": {
-        "dir": "nimpkgs/w/wepoll/v0_1_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-z+UE/iZYrOc181XwlavPxOdRFKc0P++Y9u6lM7TTcFc=",
+        "path": "./v0_1_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/w/wepoll/v0_1_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_1_0",
+        "type": "path"
       }
     }
   },
