@@ -9,13 +9,14 @@
   
   inputs.src-ioselectors-v0_1_4.flake = false;
   inputs.src-ioselectors-v0_1_4.owner = "xflywind";
-  inputs.src-ioselectors-v0_1_4.ref   = "refs/tags/v0.1.4";
+  inputs.src-ioselectors-v0_1_4.ref   = "v0_1_4";
   inputs.src-ioselectors-v0_1_4.repo  = "ioselectors";
   inputs.src-ioselectors-v0_1_4.type  = "github";
   
   inputs."timerwheel".owner = "nim-nix-pkgs";
   inputs."timerwheel".ref   = "master";
   inputs."timerwheel".repo  = "timerwheel";
+  inputs."timerwheel".dir   = "v0_1_2";
   inputs."timerwheel".type  = "github";
   inputs."timerwheel".inputs.nixpkgs.follows = "nixpkgs";
   inputs."timerwheel".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
