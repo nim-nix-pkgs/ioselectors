@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-ioselectors-master.flake = false;
+  inputs.src-ioselectors-master.ref   = "refs/heads/master";
   inputs.src-ioselectors-master.owner = "xflywind";
-  inputs.src-ioselectors-master.ref   = "master";
   inputs.src-ioselectors-master.repo  = "ioselectors";
   inputs.src-ioselectors-master.type  = "github";
   
