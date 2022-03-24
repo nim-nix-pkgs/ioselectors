@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1648108172,
-        "narHash": "sha256-GcYiMtfwwyFLjMI3N6xJFFuozhqBozOYdN7s6FFzm3A=",
+        "lastModified": 1648163684,
+        "narHash": "sha256-zSwHJ+Y0UELd+mhabIkhUs89z1OT9b8YNRJg9orqGDw=",
         "owner": "nim-nix-pkgs",
         "repo": "timerwheel",
-        "rev": "70fa563fe0635db8ade67c9a19eca95b0bae384d",
+        "rev": "a493e0fba8da0027620daf647da762efe45edcb3",
         "type": "github"
       },
       "original": {
