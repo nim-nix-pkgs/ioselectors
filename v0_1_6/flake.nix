@@ -11,6 +11,7 @@
   inputs.src-ioselectors-v0_1_6.ref   = "refs/tags/v0.1.6";
   inputs.src-ioselectors-v0_1_6.owner = "xflywind";
   inputs.src-ioselectors-v0_1_6.repo  = "ioselectors";
+  inputs.src-ioselectors-v0_1_6.dir   = "";
   inputs.src-ioselectors-v0_1_6.type  = "github";
   
   inputs."timerwheel".owner = "nim-nix-pkgs";

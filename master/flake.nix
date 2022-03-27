@@ -11,6 +11,7 @@
   inputs.src-ioselectors-master.ref   = "refs/heads/master";
   inputs.src-ioselectors-master.owner = "xflywind";
   inputs.src-ioselectors-master.repo  = "ioselectors";
+  inputs.src-ioselectors-master.dir   = "";
   inputs.src-ioselectors-master.type  = "github";
   
   inputs."wepoll".owner = "nim-nix-pkgs";
