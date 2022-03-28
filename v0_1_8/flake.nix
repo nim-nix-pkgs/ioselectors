@@ -11,7 +11,6 @@
   inputs.src-ioselectors-v0_1_8.ref   = "refs/tags/v0.1.8";
   inputs.src-ioselectors-v0_1_8.owner = "xflywind";
   inputs.src-ioselectors-v0_1_8.repo  = "ioselectors";
-  inputs.src-ioselectors-v0_1_8.dir   = "";
   inputs.src-ioselectors-v0_1_8.type  = "github";
   
   inputs."wepoll".owner = "nim-nix-pkgs";
