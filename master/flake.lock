@@ -89,11 +89,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667330029,
-        "narHash": "sha256-/ncV+I5rpq4y8wQSkxY/nHaBbSFeJ1qTups4vNr5GcI=",
+        "lastModified": 1667334893,
+        "narHash": "sha256-8iRPjnf5SZbu9WTXDEDnv5fBHRRbZSNgLIoiZV5Jru8=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "5c4ce7f91b61ecca44409ce57e7b227f304698c5",
+        "rev": "2005deecd77979cf035c8546023fc500fad07a63",
         "type": "github"
       },
       "original": {
